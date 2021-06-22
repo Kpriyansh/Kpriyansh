@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/priyansh-kumar-2027281a7" target="_blank"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="30" height="30"></a> <a href="mailto:kumarpriyanshcr7@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/gmail_icon_130929.png" width="30" height="30"></a> 
 
-* 🔭 I’m currently a third year undergraduate pursuing B-Tech in Electronics and Communication Engineering from Birla Institute of Technology, Mesra, Jharkhand.
+* 🔭 I’m currently a third year undergraduate pursuing B-Tech in Electronics and Communication Engineering from Birla Institute of Technology, Mesra, Jharkhand, India
 * 🌱 I’m currently learning Web development and Competitive programming along with Data Structures and Algorithms.
 * 🎯 My current goal is to develop cool web applications along with improving and brushing up my Problem Solving skills. 
 * 😄 My Hobbies: I enjoy listening music and playing video games.
