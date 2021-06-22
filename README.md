@@ -10,7 +10,7 @@
 <div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpriyansh&theme=blue-green" style="margin-left:70;">
 
-<img src="https://raw.githubusercontent.com/Kpriyansh/Kpriyansh/main/code.gif" align="right" width="450" height="320" style="max-width:100%; padding-top:20;">
+<img src="https://raw.githubusercontent.com/Kpriyansh/Kpriyansh/main/code.gif" align="right" width="400" height="245" style="max-width:100%; padding-top:20;">
 </div>
 
 
