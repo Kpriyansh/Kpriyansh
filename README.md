@@ -6,4 +6,8 @@
 * 😄 My Hobbies: I enjoy listening music and playing video games.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kpriyansh&&show_icons=true&title_color=0000ff&icon_color=bb2acf&text_color=0000ff&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=Kpriyansh&show_icons=true&theme=radical">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpriyansh&theme=blue-green">
+
