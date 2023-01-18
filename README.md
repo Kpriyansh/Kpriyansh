@@ -19,12 +19,6 @@ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2
 
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpriyansh&theme=algolia" style="margin-left:70;">
-
-### 📈 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kpriyansh&show_icons=true&theme=algolia">
-
 
 
 
