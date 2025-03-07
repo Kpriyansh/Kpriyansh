@@ -18,8 +18,6 @@ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2
 
 ![](https://komarev.com/ghpvc/?username=Kpriyansh)
 
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpriyansh&show_icons=true&theme=dark)
-
 
 
 
